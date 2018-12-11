@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Vim 与中文输入法"
-subtitle: 'Using Vim with non-english input method'
-author: "Hux"
+title: "第二次搭建挖网站"
+subtitle: '听说github page提供免费的服务器，于是就用Jekyll方式弄了个新的网站'
+author: "一一"
 header-style: text
 tags:
   - Vim
 ---
 
-Update: 我最后还是放弃在 Vim 模式下输入中文了，mental model 的 cost 太重了（
+Update: 尝试输出
 
 ---
 

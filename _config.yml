@@ -78,7 +78,7 @@ ga_domain: birdxh.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "这是一个记录心情、琐事的网站"
+sidebar-about-description: "这是一个记录心情的网站"
 sidebar-avatar: /img/青.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
