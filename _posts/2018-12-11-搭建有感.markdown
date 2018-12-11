@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第二次搭建挖网站"
+title: "第二次搭建个人网站"
 subtitle: '听说github page提供免费的服务器，于是就用Jekyll方式弄了个新的网站'
 author: "一一"
 header-style: text
@@ -8,7 +8,7 @@ tags:
   - Vim
 ---
 
-Update: 尝试输出
+Update: 第一次弄的个人网站，挂了。。。难受
 
 ---
 
