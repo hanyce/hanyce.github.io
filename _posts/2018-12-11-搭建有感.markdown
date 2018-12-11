@@ -2,14 +2,14 @@
 layout: post
 title: "第二次搭建个人网站"
 subtitle: '听说github page提供免费的服务器，于是就用Jekyll方式弄了个新的网站'
-header-img: 'img/post-bg-css.jpg'
+header-img: 'IMG_4259.JPG'
 author: "一一"
 header-mask: 0.3
 tags:
   - 技术
 ---
 
-Update: 第一次弄的个人网站，挂了。。。难受
+PS: 第一次弄的个人网站，挂了。。。难受
 
 ---
 上个月来上海后就突发奇想的弄了个个人网站，百度google好久发现WordPress和Jekyll两种建站方式，可能最后是处于懒惰心里选了个简单的WordPress
