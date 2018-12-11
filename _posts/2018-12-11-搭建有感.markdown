@@ -2,10 +2,11 @@
 layout: post
 title: "第二次搭建个人网站"
 subtitle: '听说github page提供免费的服务器，于是就用Jekyll方式弄了个新的网站'
+header-img: 'img/post-bg-css.jpg'
 author: "一一"
-header-style: text
+header-mask: 0.3
 tags:
-  - Vim
+  - 技术
 ---
 
 Update: 第一次弄的个人网站，挂了。。。难受
