@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hancye
+weibo_username:     hanyce
 zhihu_username:     zhancye
 github_username:    hanyce
 twitter_username:   AlieZ_11
