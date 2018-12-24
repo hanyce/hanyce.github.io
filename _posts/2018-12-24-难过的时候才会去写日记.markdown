@@ -1,0 +1,11 @@
+---
+layout: post
+title: "难过的时候才会去写日记"
+subtitle: '我是一个糟糕的人'
+header-img: 'img湖 银河 星空.jpg'
+author: "一一"
+header-mask: 0.3
+tags:
+  - 生活
+
+---
