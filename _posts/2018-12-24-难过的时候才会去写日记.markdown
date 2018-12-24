@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "难过的时候才会去写日记"
+title: "对不起，我爱你"
 subtitle: '我是一个糟糕的人'
 header-img: 'img湖 银河 星空.jpg'
 author: "一一"
