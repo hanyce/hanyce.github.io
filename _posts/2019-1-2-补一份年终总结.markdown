@@ -15,7 +15,7 @@ tags:
 > * 2019 FLAG
 
 ---
-### 2018做了些什么？
+### 2018做了些什么？ ###
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
@@ -24,7 +24,7 @@ tags:
 6.XXXXXXXX
 
 ---
-### 有哪儿些没有做到的？
+### 有哪儿些没有做到的？ ###
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
@@ -33,7 +33,7 @@ tags:
 6.XXXXXXXX
 
 ---
-### 工作、生活、感情、社交上
+### 工作、生活、感情、社交上 ###
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
@@ -42,7 +42,7 @@ tags:
 6.XXXXXXXX
 
 ---
-### 2019年的FLAG
+### 2019年的FLAG ###
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
