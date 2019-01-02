@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2018总结&2019目标"
+subtitle: '说好昨天晚上补的。。。结果又拖到了今天。。。'
+header-img: 'img/湖 银河 星空.jpg'
+author: "一一"
+header-mask: 0.3
+tags:
+  - 总结
+
+---
+今天平安夜了，我好难过，都是我的错。
