@@ -13,8 +13,18 @@ tags:
 > * 工作上，生活上，感情上，社交上
 > * 给自己的2018年打个分
 > * 2019 FLAG
+
 ---
-# 2018做了些什么？
+## 2018做了些什么？
+1.XXXXXXXX
+2.XXXXXXXX
+3.XXXXXXXX
+4.XXXXXXXX
+5.XXXXXXXX
+6.XXXXXXXX
+
+---
+## 有哪儿些没有做到的？
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
@@ -22,7 +32,7 @@ tags:
 5.XXXXXXXX
 6.XXXXXXXX
 ---
-# 有哪儿些没有做到的？
+## 工作、生活、感情、社交上
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
@@ -30,15 +40,7 @@ tags:
 5.XXXXXXXX
 6.XXXXXXXX
 ---
-# 工作、生活、感情、社交上
-1.XXXXXXXX
-2.XXXXXXXX
-3.XXXXXXXX
-4.XXXXXXXX
-5.XXXXXXXX
-6.XXXXXXXX
----
-# 2019年的FLAG
+## 2019年的FLAG
 1.XXXXXXXX
 2.XXXXXXXX
 3.XXXXXXXX
