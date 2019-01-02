@@ -47,10 +47,6 @@ tags:
 
 ---
 ##### 2019年的FLAG
-1.XXXXXXXX<br>
-2.XXXXXXXX<br>
-3.XXXXXXXX<br>
-4.XXXXXXXX<br>
-5.XXXXXXXX<br>
-6.XXXXXXXX<br>
+1.技术上：[2019目标](http://note.youdao.com/noteshare?id=2f7bdf389dd6f263de7cd1d6dde9090b)<br>
+2.
 
