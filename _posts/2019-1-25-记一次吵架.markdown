@@ -1,0 +1,12 @@
+---
+layout: post
+title: "争吵后的一些想法"
+subtitle: '暂无'
+header-img: 'img/湖 银河 星空.jpg'
+author: "一一"
+header-mask: 0.3
+tags:
+  - 总结
+
+---
+我找你的时候是爆炸想你，我没找你的时候，是憋着想你。
