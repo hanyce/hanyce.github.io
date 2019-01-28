@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "随便写点"
-subtitle: '暂无'
+subtitle: '1月28的日记'
 header-img: 'img/mybizhi.jpg'
 author: "一一"
 header-mask: 0.3
