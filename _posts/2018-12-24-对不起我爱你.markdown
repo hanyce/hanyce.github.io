@@ -6,7 +6,7 @@ header-img: 'img/湖 银河 星空.jpg'
 author: "一一"
 header-mask: 0.3
 tags:
-  - 生活
+  - 感情
 
 ---
 今天平安夜了，我好难过，都是我的错。
