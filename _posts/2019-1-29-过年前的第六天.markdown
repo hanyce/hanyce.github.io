@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "过年前的第七天"
-subtitle: '1月28的日记'
+title: "过年前的第六天"
+subtitle: '1月29的日记'
 header-img: 'img/mybizhi.jpg'
 author: "一一"
 header-mask: 0.3
