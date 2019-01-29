@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "随便写点"
+title: "过年前的第七天"
 subtitle: '1月28的日记'
 header-img: 'img/mybizhi.jpg'
 author: "一一"
 header-mask: 0.3
 tags:
-  - 感情
+  - 日记
 
 ---
 很无聊，刚刚刷即刻看到了之前曾经很喜欢的一家公司，有赞，年会的时候CEO直接大肆宣布，以后实行996机制。
