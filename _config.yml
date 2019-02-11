@@ -5,7 +5,7 @@ header-img: img/background.jpg
 email: 872512491@qq.com
 description: 个人网站
 keyword: Blog, 博客, 测试, 互联网
-url: https://birdxh.com              # your host, for absolute URL
+url: http://birdxh.com              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
