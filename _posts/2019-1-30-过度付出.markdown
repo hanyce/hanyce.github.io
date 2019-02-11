@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "过度付出"
-subtitle: '1月30'
+subtitle: '1月30号'
 header-img: 'img/mybizhi.jpg'
 author: "一一"
 header-mask: 0.3
