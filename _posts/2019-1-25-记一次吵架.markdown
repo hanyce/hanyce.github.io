@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周五晚去苏州后"
+title: "记一次吵架"
 subtitle: '暂无'
 header-img: 'img/湖 银河 星空.jpg'
 author: "一一"
