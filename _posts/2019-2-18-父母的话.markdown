@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 父母的话"
+title: 父母的话
 subtitle: '2.17晚'
 header-img: 'img/2018-12-11.jpg'
 author: "一一"
