@@ -68,7 +68,7 @@ netease_comment: ture
 
 # Analytics settings
 # Baidu Analytics
- ba_track_id: 09f82f441b5412ce5a72a8531b40eedd
+ba_track_id: 09f82f441b5412ce5a72a8531b40eedd
 
 # Google Analytics
 ga_track_id: UA-134204071-1            # Format: UA-xxxxxx-xx
