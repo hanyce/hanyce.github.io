@@ -9,4 +9,4 @@ tags:
   - 成长
 
 ---
-![大佬的话](img/screenshots/511551235142_.pic.jpg)
+![大佬的话](https://github.com/hanyce/hanyce.github.io/blob/master/img/screenshots/511551235142_.pic.jpg?raw=true)
