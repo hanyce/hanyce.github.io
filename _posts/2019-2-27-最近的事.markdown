@@ -1,0 +1,12 @@
+---
+layout: post
+title: '最近的事'
+subtitle: '2.27早'
+header-img: 'img/2018-12-11.jpg'
+author: "一一"
+header-mask: 0.3
+tags:
+  - 成长
+
+---
+![大佬的话](img/screenshots/511551235142_.pic.jpg)
