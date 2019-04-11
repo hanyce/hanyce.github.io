@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'metaCLass'
+title: 'metaclass元类'
 subtitle: '4.11下午'
 header-img: 'img/mybizhi.jpg'
 author: "一一"
